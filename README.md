@@ -17,5 +17,9 @@ built from scratch in Excel.
 - `WACC` - CAPM cost of equity and capital structure
 - `Sensitivity` - implied share price across WACC × terminal growth
 
+<img width="970" height="611" alt="image" src="https://github.com/user-attachments/assets/de7a6a5d-01a3-4862-ad9a-d09aaae208a6" />
+<img width="947" height="185" alt="image" src="https://github.com/user-attachments/assets/afed62e4-eec5-4635-98a1-43f92a09e015" />
+
+
 ## Notes
 Independent educational project based on public filings. Not investment advice.
